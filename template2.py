@@ -6,4 +6,5 @@ def print_hello(name: str, surname: str) -> None:
     :param surname: surname of man
     :return:
     """
+    print(f'Hello, {name} {surname}!')
     # enter your code here
