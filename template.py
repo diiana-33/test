@@ -7,3 +7,5 @@ def print_hello(name: str) -> None:
     :return:
     """
     # enter your code here
+def print_hoho(name):
+    print(f'Hoho {name}')
